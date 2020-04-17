@@ -2,6 +2,8 @@
 
 ## halomaven简介
 
+本分支名字暂定为halomaven
+
 基于halo V1.3.2
 
 使用gradle构建项目感觉不方便，将其变为maven项目开发
