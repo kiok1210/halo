@@ -1,3 +1,18 @@
+
+
+## halomaven简介
+
+基于halo V1.3.2
+
+使用gradle构建项目感觉不方便，将其变为maven项目开发
+
+计划是以halo为主体，开发一个集搜索、gitbook、博客为一体的轻网站项目
+
+------------------------------
+
+## 以下是原文正文
+
+
 <h1 align="center"><a href="https://github.com/halo-dev" target="_blank">Halo</a></h1>
 
 > Halo 是一款现代化的个人独立博客系统，给习惯写博客的同学多一个选择。
